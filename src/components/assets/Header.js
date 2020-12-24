@@ -29,7 +29,7 @@ export default function Header() {
                 href="#"
                 data-linkid="2"
                 data-align="middle"
-                className="tm-nav-link">Work</a>
+                className="tm-nav-link">Blog</a>
             </li>
             <li className="tm-nav-item">
               <a href="#" data-linkid="3" data-align="left" className="tm-nav-link">Contact</a>
