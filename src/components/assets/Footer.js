@@ -6,6 +6,7 @@ export default function Footer() {
             <footer>
 Copyright &copy; 2021  joydimba
 
+
 </footer>
         </div>
     )
